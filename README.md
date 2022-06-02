@@ -1,2 +1,6 @@
 # RPG-w-Dnkx
-Rpgzin que tentaremos fazer algo 
+## Desenvolvido por Allan Narok e Daniel Kondlatsch
+
+### -----------------------------
+
+Rpgzin em python 
