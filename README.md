@@ -1,5 +1,5 @@
 # RPG-w-Dnkx
-### Desenvolvido por Allan Narok e Daniel Kondlatsch
+### > Desenvolvido por Allan Narok e Daniel Kondlatsch
 
 ### **-----------------------------**
 
