@@ -1,0 +1,39 @@
+historia do personagem *2
+leu um livro e entrou no mundo *2
+
+
+sistema de combate - por turno
+inimigos *1 
+
+status*1 
+- ataque
+- defesa
+- sorte 
+debuff a sorte negativa
+
+tela em paisagem 3 elementos *4
+tela principal - conteudo
+tela inferior - texto ação dialogo
+tela direita - status informações
+
+
+atividades*3 
+- pesca
+- loot surpresas
+- culinaria
+
+sistema de nivel*1
+1 a 10
+
+
+- loot = lvl do monstro * sorte(atributo + arma/items)*1
+- bau (5 item 4 estrela 2 5 estrela)
+
+areas safe( cidades )*2
+e perigosas (dungeon)
+
+
+
+
+
+
