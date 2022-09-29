@@ -23,7 +23,7 @@ while True:
         print('Bye!')
         break
     elif (option == '3'):
-        print('Allan Narok\nDaniel Kondlatsch')
+        print('- Allan Narok\n- Daniel Kondlatsch')
     else:
         print('Opção Inválida')
         break
