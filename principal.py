@@ -25,5 +25,5 @@ while True:
     elif (option == '3'):
         print('Allan Narok\nDaniel Kondlatsch')
     else:
-        print('Opção Inválida')
+        print('Opção Inválida.')
         break
