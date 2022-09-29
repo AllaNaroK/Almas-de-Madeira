@@ -18,9 +18,9 @@ while True:
     option = input('Enter a number: ')
 
     if (option == '1'):
-        print('Fod')
+        print('Sucesso!')
     elif (option == '2'):
-        print('Bye')
+        print('Bye!')
         break
     elif (option == '3'):
         print('Allan Narok\nDaniel Kondlatsch')
